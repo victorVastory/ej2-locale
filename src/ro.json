@@ -175,7 +175,7 @@
     "dropdowns": {
       "noRecordsTemplate": "Nu au fost găsite",
       "actionFailureTemplate": "Solicitarea a eșuat",
-      "overflowCountTemplate": "+${număr} mai mult ..",
+      "overflowCountTemplate": "+${count} mai mult ..",
       "selectAllText": "Selectează tot",
       "unSelectAllText": "Deselectează tot",
       "totalCountTemplate": "${număr} selectat"
@@ -195,7 +195,7 @@
     "multi-select": {
       "noRecordsTemplate": "Nu au fost găsite",
       "actionFailureTemplate": "Solicitarea a eșuat",
-      "overflowCountTemplate": "+${număr} mai mult ..",
+      "overflowCountTemplate": "+${count} mai mult ..",
       "selectAllText": "Selectează tot",
       "unSelectAllText": "Deselectează tot",
       "totalCountTemplate": "${număr} selectat"
